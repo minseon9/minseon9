@@ -1,8 +1,8 @@
 <h2 align="left">Hi 👋! My name is Ian(Minseong Lee) and I'm a Backend Developer, from South Korea</h2>  
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=minseon9&show_icons=true&count_private=true&theme=dracula&cache_seconds=1800" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=minseon9&locale=en&hide_title=false&layout=compact&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=minseon9&show_icons=true&count_private=true&theme=swift&cache_seconds=1800" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=minseon9&layout=donut&locale=en&hide_title=false&langs_count=10&theme=swift&hide_border=false" height="150" alt="languages graph"/>
   <img src="https://leetcard.jacoblin.cool/leeapple?ext=activity" height="300" width="500"/>  
 </div>  
 
