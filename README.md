@@ -1,4 +1,4 @@
-<h2 align="left">Ian(Minseong Lee), Backend Developer from South Korea</h2> 
+<h2 align="left">Ian, Software Engineer</h2> 
 
 <h3>Skills</h3>
 
@@ -41,6 +41,5 @@
 <h3>Contact Info</h3>
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/miseong-ian) 
-[![Websit](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://minseon9.github.io/)
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/minseon9/) 
+[![Websit](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://minseon9.github.io/) 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:minseong.oyat@gmail.com)
